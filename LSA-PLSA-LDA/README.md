@@ -1,8 +1,7 @@
 # **Topic Model （主题模型）**
 ***
-<div align="center">
-![主题模型](https://pic1.zhimg.com/v2-db1cb9e08d326d231d02ba3efa4ce0ff_1200x500.jpg)
-</div>
+
+<center>![主题模型](https://pic1.zhimg.com/v2-db1cb9e08d326d231d02ba3efa4ce0ff_1200x500.jpg)</center>
 
 ## 引言
 主题检测对于许多任务是一项非常有价值的。比如：文档聚类，特征选择，信息检索和推荐。
@@ -17,7 +16,7 @@
 ### 对比主题模型和文本分类
 文本分类是一个监督的机器学习问题，每篇文档被分类为预定义的一系列label中的一个。
 主题模型是一个无监督学习形式，发现文档中共现词的聚类。这些聚类在一起的共现词称为“topic”。这些topic是未知的。主题模型能用来解决文本分类问题，呈现文档中主题的分布。
-![avatar](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1538411402/image2_ndnai9.png)
+![avatar](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1538411402/image2_ndnai9.png "主题模型和文本分类的对比")
 
 
 ***

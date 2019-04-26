@@ -1,6 +1,8 @@
 # **Topic Model （主题模型）**
 ***
-<div align=center>![主题模型](https://pic1.zhimg.com/v2-db1cb9e08d326d231d02ba3efa4ce0ff_1200x500.jpg)</div>
+<div align="center">
+![主题模型](https://pic1.zhimg.com/v2-db1cb9e08d326d231d02ba3efa4ce0ff_1200x500.jpg)
+</div>
 
 ## 引言
 主题检测对于许多任务是一项非常有价值的。比如：文档聚类，特征选择，信息检索和推荐。

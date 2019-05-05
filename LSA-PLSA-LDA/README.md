@@ -1,6 +1,6 @@
-#<div align="center"> **Topic Model （主题模型）** </div>  
+# <div align="center"> Topic Model （主题模型）</div>  
 ***
-<div align="center"> ![主题模型](https://pic1.zhimg.com/v2-db1cb9e08d326d231d02ba3efa4ce0ff_1200x500.jpg "主题模型") </div>
+<div align="center"> ![主题模型](https://pic1.zhimg.com/v2-db1cb9e08d326d231d02ba3efa4ce0ff_1200x500.jpg "主题模型")</div>
 
 
 ## 引言
